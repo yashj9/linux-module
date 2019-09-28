@@ -1,4 +1,4 @@
-// lab paper 1, practice file, server side
+// lab paper 1, practice file, string based question paper, server side
 
 #include"headers.h"
 

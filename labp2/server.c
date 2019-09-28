@@ -1,4 +1,4 @@
-// lab paper set B, int array and strong num program, client side
+// lab paper set B, int array and strong num program, server side
 
 #include"headers.h"
 
